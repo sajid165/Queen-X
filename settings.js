@@ -18,7 +18,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['1(438)8076389'] //ur owner number
 global.ownername = "©Qᴜᴇᴇɴ-x ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ" //ur owner name
 global.ytname = "ʏᴜʀᴇꜱʜ" //ur yt chanel name
-global.socialm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur github or insta name
+global.socialm = "👸🏻M,S'kamboh👸🏻" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
@@ -29,9 +29,9 @@ global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme u
 global.websitex = "https:// no" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark packname
-global.author = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻." //ur watermark
+global.packname = "   👸🏻M,S'kamboh👸🏻" //ur sticker watermark packname
+global.author = "   👸🏻M,S'kamboh👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.wm = "👸🏻M,S'kamboh👸🏻." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -40,16 +40,17 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: '*👸🏻💭Here you go!*',
-    admin: '*👸🏻💭This feature could be used by admins only!*',
-    botAdmin: '*👸🏻💭Bot Must Be Admin First!*',
+    success: '*👸🏻 muazzam 💭
+	!*',
+    admin: '*👸🏻💭 muazzam*',
+    botAdmin: '*👸🏻💭Bot muazzam!*',
     premime: '*👸🏻💭Premium Special Features If You Want to Register Type Rent*',
     owner: '*👸🏻💭This feature could be used by owner only*',
     group: '*👸🏻💭Features Used Only For Groups!*',
     private: '*👸🏻💭Features Used Only For Private Chat!*',
     bot: '*👸🏻💭This feature could be used by bot only*',
-    wait: '*👸🏻💭Please wait...*',
-    linkm: '*👸🏻💭Where is the link?*',
+    wait: '*👸🏻💭 muazzam...*',
+    linkm: '*👸🏻💭Where muazzam*',
     endLimit: '*👸🏻💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
     nsfw: '*👸🏻💭The nsfw feature has not been activated, please contact the admin to activate*',
 }
